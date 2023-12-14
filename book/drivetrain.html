@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Drivetrain - My site</title>
+        <title>Drivetrain - 1516B wiki</title>
 
 
         <!-- Custom HTML head -->
@@ -88,7 +88,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="chapter_1.html"><strong aria-hidden="true">1.</strong> The 1516B Robot</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="drivetrain.html" class="active"><strong aria-hidden="true">1.1.</strong> Drivetrain</a></li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="chapter_1.html"><strong aria-hidden="true">1.</strong> The 1516B Robot</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="drivetrain.html" class="active"><strong aria-hidden="true">1.1.</strong> Drivetrain</a></li></ol></li><li class="chapter-item expanded "><a href="resources.html"><strong aria-hidden="true">2.</strong> Resources</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -139,7 +139,7 @@
                         </button>
                     </div>
 
-                    <h1 class="menu-title">My site</h1>
+                    <h1 class="menu-title">1516B wiki</h1>
 
                     <div class="right-buttons">
                         <a href="print.html" title="Print this book" aria-label="Print this book">
@@ -171,7 +171,10 @@
 
                 <div id="content" class="content">
                     <main>
-                        
+                        <h1 id="drivetrain"><a class="header" href="#drivetrain">Drivetrain</a></h1>
+<p>Currently, Team 1516B uses a <span style="color: aquamarine">6 motor</span> drivetrain with omniwheels for fast movement, and also uses gear ratios optimized for speed on the drivetrain. We aim for a fast drivetrain that can move the robot around and push triballs as well as one that has enough torque to overcome an opponent robot pushing ours backwards.</p>
+<p>We put 4 motors in the back in order to save space in the middle for a triball holding area. As we have defined the game, <a href="https://www.vexrobotics.com/over-under-manual">Over Under</a>, this year as a &quot;pushing game&quot;, our intake serves moderately little use except as a holder for our beginning autonomous. Therefore, our drivetrain must be one of the strongest portions of our robot.</p>
+
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
@@ -180,6 +183,9 @@
                                 <i class="fa fa-angle-left"></i>
                             </a>
 
+                            <a rel="next prefetch" href="resources.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
 
                         <div style="clear: both"></div>
                     </nav>
@@ -191,26 +197,13 @@
                         <i class="fa fa-angle-left"></i>
                     </a>
 
+                    <a rel="next prefetch" href="resources.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
             </nav>
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 
