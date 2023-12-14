@@ -6,5 +6,6 @@ src = "src"
 title = "1516B wiki"
 
 [output.pdf]
+optional = true
 
 [output.html]
