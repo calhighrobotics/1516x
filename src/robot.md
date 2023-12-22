@@ -1,0 +1,3 @@
+# The robot
+
+This chapter goes over the <span style="color: gold;">specifications</span> of the 1516B robot and will continually update to reflect the <span style="color: darkorchid;">latest version</span> of the robot first. Previous iterations of the robot for this season will be <span style="color: darkgrey;">pushed down</span> as necessary in order to place the specifications in <span style="color: crimson;">reverse chronological order</span>.
