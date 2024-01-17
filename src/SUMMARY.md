@@ -4,17 +4,20 @@
 
 # Over Under Season
 
-- [The 1516B Robot](./robot.md)
-    - [Drivetrain](./drivetrain.md)
-    - [PTO System](./pto.md)
-    - [Intake](./intake.md)
-    - [Shooting](./shooting.md)
-    - [Lift](./lift.md)
-- [Resources](./resources.md)
-- [Programming](./programming.md)
-    - [VEXCode](./programming-vex.md)
-    - [PROS](./pros.md)
-- [Research](./research.md)
+- [The 1516B Robot](./overunder/robot.md)
+    - [Drivetrain](./overunder/drivetrain.md)
+    - [PTO System](./overunder/pto.md)
+    - [Intake](./overunder/intake.md)
+    - [Shooting](./overunder/shooting.md)
+    - [Lift](./overunder/lift.md)
+- [Resources](./overunder/resources.md)
+- [Programming](./overunder/programming.md)
+    - [VEXCode](./overunder/programming-vex.md)
+    - [PROS](./overunder/pros.md)
+- [Research](./overunder/research.md)
+- [Game Strategy](./overunder/strategy.md)
 
 ---
+
+[Contributions](./contributions.md)
 

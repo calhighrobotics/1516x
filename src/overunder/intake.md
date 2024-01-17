@@ -1,0 +1,3 @@
+# Intake
+
+The original intake for the first semester of the Over Under 23-24 season was made with a large chain gear and rubber bands between the two side gears in order to grab onto the triball and intake it. During competitions, the intake's rubber bands seemed too thin to move the triballs in and out of a holding area right behind the intake. It was slow and the rubber bands bent more than was efficient.
