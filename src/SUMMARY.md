@@ -6,10 +6,14 @@
 
 - [The 1516B Robot](./robot.md)
     - [Drivetrain](./drivetrain.md)
+    - [PTO System](./pto.md)
+    - [Intake](./intake.md)
+    - [Shooting](./shooting.md)
+    - [Lift](./lift.md)
 - [Resources](./resources.md)
 - [Programming](./programming.md)
     - [VEXCode](./programming-vex.md)
-    - [PROS]()
+    - [PROS](./pros.md)
 - [Research](./research.md)
 
 ---
