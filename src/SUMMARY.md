@@ -15,7 +15,6 @@
     - [VEXCode](./overunder/programming-vex.md)
     - [PROS](./overunder/pros.md)
 - [Research](./overunder/research.md)
-- [Game Strategy](./overunder/strategy.md)
 
 ---
 
