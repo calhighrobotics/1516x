@@ -14,6 +14,7 @@
 - [Programming](./overunder/programming.md)
     - [VEXCode](./overunder/programming-vex.md)
     - [PROS](./overunder/pros.md)
+        - [PROS Rewrite](./overunder/pros_rewrite.md)
 - [Research](./overunder/research.md)
 
 ---
