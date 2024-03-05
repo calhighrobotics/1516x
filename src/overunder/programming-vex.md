@@ -16,6 +16,7 @@ User control
 Autonomous control
 - Rerun reader call
 - Execution and replay of recorder motor values
+- Inclusion of sensor values into the calculation of rerun 
 ```
 
 
