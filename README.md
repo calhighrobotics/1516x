@@ -5,3 +5,7 @@ This is the 1516B wiki that will cover information discovered and about the 1516
 ## Usage and replication
 
 This site uses [mdbook](https://rust-lang.github.io/mdBook/) for rendering on the web. Please clone the repository to your machine and use the tool whose documentation is given in the aforementioned link in order to set this site up for yourself.
+
+## License
+
+This work is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 International License. See the [LICENSE](https://github.com/calhighrobotics/1516b/blob/master/LICENSE) file or the [deed](https://creativecommons.org/licenses/by-nc-sa/4.0/) for more information.
