@@ -1,5 +1,5 @@
 [book]
-authors = ["Absozero"]
+authors = ["Absozero", "Centei"]
 language = "en"
 multilingual = false
 src = "src"
@@ -10,6 +10,7 @@ mathjax-support = true
 site-url = "/1516b/"
 git-repository-url = "https://github.com/calhighrobotics/1516b"
 edit-url-template = "https://github.com/calhighrobotics/1516b/edit/master/{path}"
+additional-css = ["./theme/catppuccin.css"]
 
 [output.html.search]
 limit-results = 20
@@ -19,3 +20,8 @@ boost-hierarchy = 2
 boost-paragraph = 1
 expand = true
 heading-split-level = 2
+
+[preprocessor]
+
+[preprocessor.catppuccin]
+assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
