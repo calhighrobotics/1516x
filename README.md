@@ -8,4 +8,10 @@ This site uses [mdbook](https://rust-lang.github.io/mdBook/) for rendering on th
 
 ## License
 
-This work is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 International License. See the [LICENSE](https://github.com/calhighrobotics/1516b/blob/master/LICENSE) file or the [deed](https://creativecommons.org/licenses/by-nc-sa/4.0/) for more information.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
