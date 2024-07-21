@@ -2,7 +2,20 @@
 
 [About the Wiki](./overview.md)
 
-# Over Under Season
+
+# High Stakes Season - 24-25
+
+- [The 1516B Robot]()
+- [Programming](./highstakes/programming.md)
+
+---
+
+# Best Build Practices
+
+- [Internal Forces (Stresses)](./buildpractices/stresses.md)
+---
+
+# Over Under Season - 23-24
 
 - [The 1516B Robot](./overunder/robot.md)
   - [Drivetrain](./overunder/drivetrain.md)
@@ -17,13 +30,7 @@
     - [PROS Rewrite](./overunder/pros_rewrite.md)
 - [Research](./overunder/research.md)
 
-# High Stakes Season
 
-- [The 1516B Robot]()
-
-# Best Build Practices
-
-- [Internal Forces (Stresses)](./buildpractices/stresses.md)
 
 ---
 
