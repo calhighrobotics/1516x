@@ -1,5 +1,8 @@
 # Programming
 
+[High Stakes Codebase](https://github.com/calhighrobotics/high_stakes_x)
+[Doxygen Documentation](https://calhighrobotics.github.io/high_stakes_x/)
+
 The vast majority of our codebase and project structure remains the same between the Over Under season and the High Stakes season, at least at the beginning of the season. We have chosen to implement _changes to our programming approach instead of major project changes._
 
 What does that mean? Last year, we explored the area of advanced VEX programming, dabbling into the PROS framework for the first time in several years, implementing PID's, and going for a more ambitious autonomous routine than ever before. As programmers, we likened this to year 0, where we learned about these subjects. 
