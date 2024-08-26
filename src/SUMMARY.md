@@ -5,7 +5,7 @@
 
 # High Stakes Season - 24-25
 
-- [The 1516B Robot]()
+- [The 1516X Robot]()
 - [Programming](./highstakes/programming.md)
 
 ---
