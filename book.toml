@@ -3,13 +3,13 @@ authors = ["Absozero", "Centei"]
 language = "en"
 multilingual = false
 src = "src"
-title = "1516B wiki"
+title = "The 1516X wiki"
 
 [output.html]
 mathjax-support = true
-site-url = "/1516b/"
-git-repository-url = "https://github.com/calhighrobotics/1516b"
-edit-url-template = "https://github.com/calhighrobotics/1516b/edit/master/{path}"
+site-url = "/1516x/"
+git-repository-url = "https://github.com/calhighrobotics/1516x"
+edit-url-template = "https://github.com/calhighrobotics/1516x/edit/master/{path}"
 additional-css = ["./theme/catppuccin.css"]
 
 [output.html.search]
