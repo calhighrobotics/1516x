@@ -2,7 +2,6 @@
 
 [About the Wiki](./overview.md)
 
-
 # High Stakes Season - 24-25
 
 - [The 1516X Robot]()
@@ -10,9 +9,16 @@
 
 ---
 
-# Best Build Practices
+# Notebook Practices
 
-- [Internal Forces (Stresses)](./buildpractices/stresses.md)
+- [General Guidelines](./notebook_practices/guidelines.md)
+
+---
+
+# Build Practices
+
+- [Internal Forces (Stresses)](./build_practices/stresses.md)
+
 ---
 
 # Over Under Season - 23-24
@@ -29,8 +35,6 @@
   - [PROS](./overunder/pros.md)
     - [PROS Rewrite](./overunder/pros_rewrite.md)
 - [Research](./overunder/research.md)
-
-
 
 ---
 
