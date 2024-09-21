@@ -11,7 +11,8 @@
 
 # Notebook Practices
 
-- [General Guidelines](./notebook_practices/guidelines.md)
+- [General Guidelines](./notebook_practices/university_georgia_guidelines.md)
+- [Team Guidelines](./notebook_practices/team_guidelines.md)
 
 ---
 
